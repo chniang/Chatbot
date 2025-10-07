@@ -83,5 +83,4 @@ Similarité	Remplacer le Coefficient de Jaccard par une métrique basée sur les
 Réponse	Implémenter une règle de réponse spécifique si le score de similarité dépasse un seuil élevé (ex: "C'est une correspondance exacte ! Voici la phrase: ...").
 Corpus	Utiliser un corpus multilingue et détecter la langue de la requête.
 
-Exporter vers Sheets
 (Le code pour ce projet est contenu dans le fichier chatbot.py)
