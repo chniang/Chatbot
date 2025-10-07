@@ -1,0 +1,21 @@
+# ?? Environnement virtuel
+myenv/
+
+# ?? Ressources NLTK ou autres données
+punkt/
+nltk_data/
+
+# ?? Fichiers Python compilés
+*.pyc
+__pycache__/
+
+# ?? Fichiers temporaires
+*.log
+*.tmp
+
+# ?? Fichiers système
+.DS_Store
+Thumbs.db
+
+# ?? VSCode config (optionnel)
+.vscode/

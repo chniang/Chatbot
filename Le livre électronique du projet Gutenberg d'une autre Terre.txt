@@ -1,0 +1,1156 @@
+Le livre électronique du projet Gutenberg d'une autre Terre
+    
+Ce livre électronique est destiné à l'usage de toute personne, n'importe où aux États-Unis et
+la plupart des autres régions du monde sans frais et avec presque aucune restriction
+Vous pouvez le copier, le donner ou le réutiliser selon les conditions
+de la licence Project Gutenberg incluse avec cet ebook ou en ligne
+sur www.gutenberg.org. Si vous n'êtes pas situé aux États-Unis,
+vous devrez vérifier les lois du pays où vous vous trouvez
+avant d'utiliser cet eBook.
+
+Titre : Une autre Terre
+
+Auteur : David Evans
+        Al Landau
+
+Date de sortie : 10 février 2020 [eBook #61367]
+                Dernière mise à jour : 17 octobre 2024
+
+Langue : anglais
+
+Crédits : Produit par Greg Weeks, Mary Meehan et Online
+        Équipe de relecture distribuée sur http://www.pgdp.net
+
+
+*** DÉBUT DU PROJET GUTENBERG EBOOK UNE AUTRE TERRE ***
+
+                             UNE AUTRE TERRE
+
+                      PAR DAVID EVANS & AL LANDAU
+
+               Quoi qu'il se soit passé dans le
+               test, il avait vraiment besoin d'une bonne explication.
+
+           [Note du transcripteur : Ce texte électronique a été produit à partir de
+                Mondes de science-fiction, mai 1963.
+         Des recherches approfondies n’ont révélé aucune preuve que
+         [Le droit d'auteur américain sur cette publication a été renouvelé.]
+
+
+                                   je
+
+Lieutenant-colonel Philip Snow, médecin de l'air, USAF, et directeur des essais
+du laboratoire aéromédical, arpentait le bureau dans son
+quarts, se demandant pour la douzième fois au cours de la dernière demi-heure :
+Qu'est-il arrivé à Richardson pendant le test cet après-midi-là ?
+
+Il n'était pas étranger aux problèmes. Il vivait avec eux depuis
+ces dernières années, et il y avait eu des problèmes comme jamais auparavant
+défiait auparavant l'ingéniosité humaine. Car il était à la tête d'une petite
+communauté d'hommes, de scientifiques comme lui-même, de spécialistes médicaux de tous horizons
+types, psychologues, techniciens en électronique, physiciens, pression
+ingénieurs, mathématiciens, etc., chacun d'entre eux étant reconnu
+expert dans son domaine particulier - qui avait travaillé avec une extrémité
+en vue : envoyer un homme dans l'espace et le ramener sain et sauf sur Terre
+Encore une fois. Pour le dire de manière plus excitante : permettre à l’homme de faire son premier pas
+vers la conquête de l'univers.
+
+Le résultat de leurs travaux à ce jour est la Capsule, une capsule en forme de bouteille.
+engin qui occupait le centre du sol du laboratoire.
+
+Ce n'était pas très grand, juste assez grand pour contenir un homme enfermé dans un
+combinaison spatiale, allongé sur un canapé entouré d'instruments. Mais il n'y avait pas
+un pouce carré de la capsule elle-même, de la combinaison spatiale et des instruments
+qui n'avait pas présenté d'innombrables problèmes, dont la résolution avait
+est le résultat de recherches, de théories et de tests sans fin.
+
+Et de la même manière, et presque dans la même mesure, il n’y avait pas de
+pouce carré de l'homme, aussi, ce qui ne posait pas de problèmes, tous
+qui doit être résolu avant qu'il puisse être envoyé dans l'espace.
+
+Et ainsi, test après test, l'un des astronautes choisis s'est allongé sur
+le canapé dans la capsule, relié par sa combinaison spatiale aux dizaines de
+cadrans et enregistreurs graphiques sur les consoles où étaient assis les spectateurs
+spécialistes. Il semblait que rien ne pouvait se passer à l'intérieur de son
+corps qu'ils ignoraient. Ils pouvaient lire chaque flexion
+de ses muscles, chaque battement de cœur, chaque petit changement de température,
+chaque réaction de son sang et de son système nerveux complexe.
+l'encéphalographe, ils pouvaient même détecter des réactions dans la masse de
+matière grise qui était son cerveau, aucun signe de tension à cet endroit, et au-dessus
+tout, tout symptôme de cet étrange phénomène dont on connaissait encore si peu
+connu, et qui a été appelé le « breakoff » - la sensation étrange de
+isolement complet de la Terre, apathie et indifférence quasi-transe
+à la survie qui peut attaquer non seulement les pilotes de haut vol, mais aussi les fonds marins
+plongeurs, « le ravissement des profondeurs », et parfois il était accompagné
+par des hallucinations dans lesquelles des formes et des sons étranges étaient vus et entendus.
+
+       * * * * *
+
+Dans le cas du lieutenant Hamilton Richardson, USN, il y avait eu
+aucun problème mystérieux de ce genre - en fait, aucun problème de quelque nature que ce soit
+gentil du tout. Âgé de trente-six ans, il avait été l'un des premiers
+astronautes volontaires. Il avait réussi tous les examens avec brio.
+des tests préliminaires exténuants, mentaux et physiques, et dans la mesure où
+pouvait être jugé par la science, il semblait être le spécimen parfait,
+mentalement et physiquement, pour ce travail. Au cours des nombreux tests effectués avec lui,
+à l'intérieur de la capsule, rien ne s'était passé. Il y avait eu
+aucun signe de fatigue ou d'échec d'aucune sorte. Si on avait demandé à Snow qui,
+à son avis, serait le premier homme - ou, en tout cas, le premier
+Américain - pour aller dans l'espace lointain, il aurait sans hésiter proposé sa candidature
+Richardson. C'est-à-dire jusqu'à cet après-midi où la chose avait
+arrivé.
+
+C'était un long test, un premier essai. L'objectif de
+il s'agissait de découvrir comment la combinaison spatiale, qui était scellée du
+reste de la capsule, se lèverait si quelque chose arrivait à la
+capsule elle-même. Si, par exemple, dans sa course effrénée à travers l'espace,
+quelque chose l'a frappé, quelque chose, peut-être, pas plus gros qu'un petit caillou.
+Il y avait de fortes chances qu'en cas de collision avec un météore, même si petit, la coquille
+de la capsule serait perforée, et en une minute ou moins, le
+pression atmosphérique à l'intérieur, fixée à environ cinq mille pieds au-dessus
+niveau de la mer, serait réduit à zéro. En d'autres termes, la capsule
+devenir un vide dans lequel rien sur Terre ne pourrait vivre. L'astronaute
+devrait alors dépendre de sa combinaison spatiale qui, étant pressurisée,
+et étant en réalité une capsule dans une capsule, avec sa propre réserve de
+l'oxygène serait le seul espoir de survie.
+
+Ce jour-là, le test avait consisté à « percer » la capsule.
+À un signal donné, la pression à l'intérieur avait été réduite à celle de
+cinquante miles au-dessus de la surface de la Terre - en d'autres termes, à zéro - par
+pompant l'air à l'intérieur. Richardson, l'as des astronautes,
+avait été choisi pour cet important test.
+
+Tout s'était bien passé. Avec les autres scientifiques à leurs commandes, Snow,
+assis à la grande console de dizaines de cadrans, le seul à
+être connecté à Richardson par le son et la parole, avait donné le signal.
+En une minute, la capsule était devenue un vide à cinquante miles au-dessus de la
+surface de la Terre, en dehors de son enveloppe atmosphérique.
+
+La voix de Richardson, lisant ses instruments, reconnaissant celle de Snow
+les instructions, les réponses à ses questions, étaient arrivées comme d'habitude
+et toujours aussi calme. Snow sentit une excitation grandissante alors que le test
+a procédé.
+
+Et puis, sans prévenir, la chose s'était produite. La voix de Richardson
+s'était arrêté au milieu d'une lecture d'instrument, comme s'il avait
+été soudainement coupée. Quelques secondes plus tard, elle avait repris. Mais quand
+elle l'a fait, la voix prononçait un flot de sons inintelligibles
+dans un chant bas et cadencé. Snow avait écouté avec incrédulité pendant peut-être
+trente secondes, au bout desquelles les bruits avaient soudainement cessé.
+Immédiatement, Snow avait donné des instructions pour la pression normale à l'intérieur
+la capsule à restaurer. Presque comme il l'avait fait, Richardson
+la voix, redevenue normale, avait repris la lecture des instruments,
+reprenant là où il s'était arrêté une minute auparavant.
+
+Agissant sur un coup de tête, Snow avait décidé de ne rien dire.
+télégramme à Richardson à l'époque. Il avait poursuivi sa conversation avec
+l'astronaute, lui disant qu'ils le « faisaient descendre » et demandant au
+questions habituelles jusqu'à la fin du test.
+
+       * * * * *
+
+Quand, avec les autres, il se tenait là à regarder pendant que Richardson
+a été aidé à sortir de sa combinaison spatiale, il avait soigneusement observé leurs visages,
+cherchant un signe de doute ou de perplexité. Mais il n'en vit aucun.
+Au contraire, ils semblaient tous triomphalement satisfaits. Même Richardson avait
+ne montrait aucun signe d'inhabituel. Il avait été comme d'habitude
+moi-même joyeux, ne semblant même pas légèrement fatigué par la longue épreuve.
+
+Étant le seul à avoir été en contact avec Richardson, Snow
+s'était soudainement demandé s'il avait vraiment entendu ces
+des sons, si, peut-être, il avait été victime d'une hallucination. Ceci
+C'est pourquoi il n'en avait rien dit à l'époque. Il avait juste demandé :
+aussi nonchalamment qu'il le pouvait, si l'un d'entre eux avait quelque chose qu'il voulait
+immédiatement. Ils avaient secoué la tête, rayonnant de joie
+satisfaction, et il les avait tous congédiés, disant qu'en raison de la
+la durée du test, ils pourraient tous s'arrêter là, et reporter le
+interrogatoire habituel jusqu'au lendemain. Puis il s'était précipité à son
+quartiers, apportant avec lui la machine d'enregistrement sur laquelle, comme c'était le cas
+pratique, sa conversation avec Richardson pendant le test avait été
+enregistré. Contrôlant difficilement son impatience, il avait rembobiné
+la bande sur la machine et la rejoua, la tension montant à l'intérieur
+lui pendant qu'il écoutait.
+
+Il n'y avait pas eu d'hallucination. Il entendit la voix de Richardson lire
+l'instrument, la coupure soudaine au milieu, le court
+silence, puis la voix émettant des sons étranges à voix basse
+chant avec une douce montée et une descente. Il l'avait joué trois fois
+de retour, et maintenant il lui semblait que ceux-ci n'étaient pas simplement déconnectés
+sons. Ils semblaient avoir une cadence, un phrasé qui indiquait
+qu’ils appartenaient à une langue quelconque.
+
+Snow n'était pas un linguiste. Il avait une connaissance conversationnelle insuffisante.
+du français et de l'allemand, et une connaissance érudite du latin, mais il
+avait beaucoup voyagé à son époque et avait été habitué
+d'entendre parler de nombreuses langues. Il était presque sûr de n'avoir jamais entendu
+tout ce qui ressemble de près ou de loin à ces sons. Certainement Richardson
+n'était pas non plus linguiste. Il était américain de troisième génération, issu de la Grande-Bretagne
+stock, et tout ce qu'il savait des langues était ce qu'il avait appris en
+école.
+
+       * * * * *
+
+Alors d'où venaient ces sons ? Étaient-ils une langue, et si
+Alors, que voulaient-ils dire ? Comment une telle chose a-t-elle pu arriver à un homme comme Richardson ?
+sans qu'il le sache ? Cela signifiait-il qu'après tout,
+quelque chose d'étrange chez lui que l'homme lui-même ne sait peut-être même pas
+à propos, et ce qui pourrait signifier qu'il n'était pas apte à ce projet ? Ceci
+La dernière question inquiétait Snow plus que les autres.
+
+Il se dirigea vers le téléphone sur son bureau et composa le numéro Richardson.
+bungalow. La voix de la jolie femme de Richardson lui répondit.
+
+« Oui ? Ici Sandra Richardson. »
+
+« Bonjour Sandra. Phil Snow appelle. Ham est là ? »
+
+« Il est sous la douche et chante à tue-tête. Je vais le chercher ? »
+
+"Non, ce n'est pas important. Je voulais juste lui demander à nouveau s'il se sent bien.
+juste après le test. C'était plutôt long, et je me demandais s'il
+pourrait se sentir fatigué, ou...."
+
+"Fatigué ? Il semble encore plus plein d'entrain que d'habitude. Le test était-il si
+"Ça fait longtemps, alors ?"
+
+"Oui, c'était le cas. C'est pourquoi j'ai appelé et - juste pour lui dire que c'était un
+succès. Je n'ai pas encore vérifié tous les rapports, mais ça a l'air bien. Et
+tu dis qu'il est comme d'habitude ?
+
+« Oui. Pourquoi ? Il n'y avait rien… ? »
+
+« Non, non, rien du tout. Comme je te l'ai dit. À bientôt. »
+
+Il raccrocha, espérant que rien de ce qu'il avait dit ne faisait désormais réfléchir Sandra.
+Richardson se méfia et reprit ses pas dans la pièce.
+Une autre question lui vint alors à l'esprit. Le même test serait effectué.
+plusieurs fois avant de pouvoir tirer des conclusions définitives.
+il attend qu'ils voient si cette chose se reproduit avant de commencer
+Richardson et ses collègues avaient-ils quelque chose à dire ? Mais même s'il demandait
+Il se posait la question, il connaissait la réponse. Si cela ne se reproduisait plus
+dans tout test futur, le fait demeurerait que cela s'était produit une fois
+et il ne fallait ni l'oublier ni l'ignorer. Il fallait le clarifier.
+Quelque chose était arrivé à l’esprit de Richardson.
+
+Il a décidé de prendre Abe Franstein, son psychologue en chef, dans son
+confiance. En composant le numéro du bungalow de Franstein, il se souvint avec un sentiment
+de réconfort que le brillant petit homme n'était pas seulement une autorité mondiale
+dans sa matière particulière, mais qu'on disait qu'il savait lire,
+écrire et converser dans un nombre impressionnant de langues, dont certaines
+dialectes orientaux obscurs.
+
+Lorsque Franstein a répondu à l'appel, Snow lui a demandé de passer prendre un café
+après le dîner.
+
+
+                                  II
+
+« Eh bien, je dois dire », dit Franstein alors qu'ils sirotaient leur café, « le vôtre
+c'est le premier visage maussade que j'ai vu ici depuis ce test
+après-midi. Nous voici enfin en vue de notre objectif, et regardons
+toi ! Tu n'étais pas satisfait ?
+
+« Avant d'entrer dans les détails », répondit Snow, « il y a quelques choses que je veux
+pour te demander."
+
+« À propos du test ? »
+
+« D'une certaine manière, mais principalement à propos de Richardson. Avez-vous déjà eu des
+"Y a-t-il des raisons de soupçonner qu'il y a quelque chose d'inhabituel chez lui ?"
+
+« De quelle manière ? »
+
+"Dans ta ligne."
+
+Franstein sortit une énorme pipe en écume de mer et procéda à son remplissage.
+d'une pochette en plastique en désordre, comme il l'a répondu.
+
+« Oui, il y en a une. Une chose très inhabituelle. »
+
+"Il y a?"
+
+« Il a un esprit très rare. Il est probablement parfaitement équilibré. »
+Le petit homme alluma sa pipe et continua : « La grande majorité d'entre nous
+Il souffre d'un déséquilibre mental. Il n'en souffre pas. Quand je parle de déséquilibre,
+Je veux dire le genre de chose qui fait le génie, une mémoire phénoménale, un
+talent exceptionnel et sans effort, amnésie, toute forme de folie, ou même
+Quelque chose comme un tempérament violent. Tout ce qui est, pour ainsi dire, exagéré.
+
+« Est-ce physique ? Je veux dire, est-ce que cela a quelque chose à voir avec la taille ou
+le poids du cerveau, ou quelque chose comme ça ?
+
+« Vous pouvez prendre le cerveau d'un génie et celui d'une personne ordinaire de
+intelligence moyenne, et les trouvent exactement identiques dans les mesures
+et l'état des tissus. La conception populaire du génie comme un homme
+avec un front bombé est une absurdité. Beaucoup de fous et
+« Les individus retardés ont le front bombé. »
+
+« Alors, qu'est-ce que ça a à voir ? »
+
+Ah ! C'est la grande question. Personne ne le sait. On peut prendre deux hommes, égaux
+physiquement à tous égards, égaux en matière d'éducation, d'instruction, de santé,
+et avec un cerveau de même taille. L'un d'eux pourrait bien se révéler être un
+génie, l'autre un individu moyen, et personne ne sait ce qui fait
+la différence. Personne ne sait ce qui fait un enfant prodige, ni ce qu'il
+est ce qui permet à un enfant de deux ans de lire facilement, ou à un enfant de cinq ans ou
+six pour jouer d'un instrument comme s'il le faisait depuis des années ou composer
+Symphonies ou maîtrise des mathématiques avancées. Même réponse. Personne ne sait.
+Ça n'a rien à voir avec l'hérédité. Si peu de génies ont eu du génie
+qu'ils constituent des exceptions à la règle. Encore une fois, pourquoi un
+Les enfants prodiges perdent parfois complètement leur don ou leur talent à mesure qu'ils grandissent.
+Plus vieux ? On ne sait pas. Tout ce qu'on sait, c'est que le don ou le talent est là,
+mais d'où cela vient, ou pourquoi est-il dans un cerveau et pas dans un autre,
+On ne sait pas. Mais tu n'as sûrement pas besoin de moi pour tout te dire.
+ça, Phil ? Qu'est-ce que tu penses ?
+
+« Écoute ça », dit Snow, et il se dirigea vers le magnétophone.
+
+       * * * * *
+
+Il rembobina la bande jusqu'à son début, appuya sur l'interrupteur marqué
+_Jouez_, et bientôt ils entendirent les deux voix, celle de Snow et
+Richardson.
+
+« Maintenant ! » dit Snow alors que le point sur la bande approchait.
+
+La voix de Richardson s'arrêta brusquement au milieu de la conversation.
+d'une lecture d'instrument, le court silence, puis la voix de Richardson
+chantant des sons étranges. Franstein prit sa pipe entre ses
+dents et sa bouche s'ouvrit tandis qu'il écoutait. Les sons cessèrent et
+La voix de Richardson reprit la lecture de l'instrument au point où
+ça s'était arrêté.
+
+« C’est tout », dit Snow, et il éteignit la machine.
+
+Franstein remit sa pipe dans sa bouche. « Est-ce l'enregistrement de
+"Le test de cet après-midi ?"
+
+« Oui. Qu'en penses-tu ? »
+
+« Écoutons-le à nouveau. »
+
+Snow a joué l'enregistrement une deuxième et une troisième fois, puis
+dit : « Et bien ? »
+
+Franstein s'est dirigé vers la table et s'est servi plus de café avant
+« C'est nouveau pour moi », dit-il aussitôt. « J'ai environ
+des milliers d'enregistrements de langues et de dialectes du monde entier,
+et aucun d'entre eux ne ressemble à ça.
+
+« Tu penses que c'est une langue, pas seulement des sons ? »
+
+« Nous devons le découvrir, mais je dirais, à première vue, que c'est une chose primitive.
+forme d'une langue quelconque.
+
+"Alors comment diable peut-il sortir d'un homme comme Richardson qui est
+n'a jamais parlé autre chose qu'anglais - ni ses ancêtres d'ailleurs ?
+
+Franstein haussa les épaules. « Comment une grande musique naît-elle d'un
+Enfant de six ans, et ainsi de suite ? Même question, même réponse. Personne ne sait.
+En avez-vous parlé à Richardson ?
+
+« Non. J'ai appelé son bungalow juste avant le dîner et j'ai parlé à Sandra.
+Richardson était sous la douche, et elle a dit qu'il se sentait bien. Je
+Je ne lui ai pas parlé de ça, bien sûr.
+
+« Alors, ça ne pouvait pas être une sorte de transe médiumnique. Ils
+« Nous en ressentons généralement les effets tôt ou tard. »
+
+« Tu ne suggères pas le spiritualisme, n'est-ce pas ? » et dans la voix de Snow il y avait
+une note d'amusement.
+
+« Ne vous moquez pas de cela. Si cela n'a jamais été prouvé, cela ne l'a pas été non plus.
+réfuté."
+
+Et cela a déclenché une discussion qui a duré deux heures.
+couvert de nombreuses théories, de nombreuses croyances et croyances, toutes celles que Franstein
+Il parlait avec érudition et beaucoup de respect. Il parlait de réincarnation,
+spiritualisme, le mystère du temps, et dans ce dernier contexte, il
+s'arrêta au milieu de ce qu'il disait et demanda : « Si ceci-- » et
+il fit un geste de la main vers la machine - "c'est une langue, et je suis assez
+C'est sûr, mais comment pouvons-nous être sûrs qu'il s'agit d'une langue du passé ? Pourquoi
+Ne devrait-il pas s'agir d'une langue du futur ? Toutes les langues évoluent avec
+temps. Nous aurions probablement beaucoup de mal à comprendre l'anglais
+parlé il y a dix siècles. Et si c'était cet anglais qui allait
+sera-t-il dit dans mille ans ?
+
+       * * * * *
+
+À tout cela, Snow écoutait avec le scepticisme de la réponse exacte.
+scientifique, et Franstein, s'en apercevant rapidement, poursuivit : « Vous pensez
+Vous êtes intelligents, vous, scientifiques rigoureux, et vous l'êtes. Vous pouvez faire
+beaucoup de choses. On peut diviser l'atome, mesurer les étoiles, estimer
+l'espérance de vie du soleil ; vous avez conquis la distance, vous avez
+nous a entourés de miracles comme la radio, la télévision, les rayons invisibles et
+tout le reste. À présent, vous allez conquérir l'espace et coloniser le
+planètes, et cela continuera ainsi jusqu'à ce qu'il vous semble que vous
+Je saurai tout. Et vous aussi, sauf une chose : la dernière
+mystère, le dernier secret de l'univers : l'HOMME. Et cela signifie que vous et
+Moi, et tout être humain, du clochard de Skid Row au président.
+est l'éternelle inconnue, et vous n'avez jamais eu une idée plus claire
+démonstration de cela que ce qui est arrivé à Richardson cet après-midi.
+Oh, je sais ce que tu as découvert. Tu connais tout de l'homme, de ses entrailles,
+ses glandes, ses muscles, ses nerfs, son cerveau, etc. Vous pouvez même l'exposer.
+sur une table comme un seau d'eau et des petits tas de sels et de minéraux,
+et vous pouvez les montrer du doigt et dire : « C'est de cela que l'homme est fait. » Seulement
+l'autre jour, je lisais à propos d'un scientifique qui pense qu'il est sur
+sur le point de produire une cellule de vie dans un tube à essai. Vous pourriez même le faire
+cela, et vous découvrirez peut-être un jour comment mettre l'eau et les sels
+et les minéraux se réunissent à nouveau et forment un homme. J'ai toujours pensé que
+L'histoire de Frankenstein était une sorte de prophétie inspirée. Mais vous ne le ferez toujours pas.
+être capable d'expliquer pourquoi une grande musique peut provenir d'un enfant de six ans, ou
+ce qui est arrivé à Richardson cet après-midi." Il alluma sa grosse pipe, qui
+était sorti et, à travers les bouffées, avait demandé : « Et que proposez-vous de faire ?
+« Que faire à propos de Richardson ? »
+
+« Refaites le test demain avec lui et voyez si cela se reproduit,
+et puis décide", répondit Snow.
+
+« Mais même si rien n’arrive demain, tu ne peux pas ignorer cela. »
+
+« C'est vrai. Il faut aller au fond des choses, et c'est là que
+vous entrez. Vous êtes l'expert en la matière.
+
+Franstein regarda sa montre. « Allons-y et voyons ce qui se passe.
+Demain, hein ?
+
+Il se dirigeait vers la porte lorsque la sonnette du téléphone retentit. La neige tomba.
+raccrocha le combiné et il l'entendit dire : « Sandra ?... _Quoi ?_... Je serai
+Juste à côté. J'ai Abe Franstein avec moi. Je l'emmène avec moi.
+Ne t'inquiète pas, chérie.
+
+Snow raccrocha. « Il est arrivé quelque chose à Richardson », dit-il. « Il est parti.
+dans un sommeil profond et ne se réveille pas, et il se parle à lui-même d'une manière ou d'une autre
+Drôle de langage. Allons-y.
+
+Snow fouilla dans un tiroir de son bureau et trouva un stéthoscope.
+
+
+                                  III
+
+Cinq minutes plus tard, ils étaient debout avec la jolie Sandra Richardson à
+le pied du lit sur lequel Richardson, vêtu de son pyjama, était affalé
+sur son dos. Il dormait profondément et de sa bouche sortait un son grave
+chantant. Franstein et Snow se regardèrent en reconnaissant
+les sons.
+
+Snow a essayé de réveiller l'astronaute, doucement au début, puis moins, mais il
+n'eut aucun effet. Il utilisa son stéthoscope sur le cœur et les poumons, puis tira un
+paupière et examiné l'œil en dessous, palpé le sourcil.
+
+« Quand est-ce que cela s'est produit ? » demanda-t-il à Sandra, inquiète.
+
+« Il y a environ quinze, peut-être vingt minutes », répondit-elle. « Nous sommes arrivés.
+ici et je me suis déshabillée et j'ai utilisé la salle de bain en premier. Quand je suis sortie, j'ai
+je l'ai trouvé comme ça."
+
+« Comment s'est-il passé toute la soirée ? »
+
+« Bien, comme je te l'ai dit quand tu as appelé. Tom et Betty Moreland sont venus
+pour le dîner et on a joué à la canasta. Il va bien ?
+
+"Pour autant que je puisse voir, oui. Cœur, poumons, yeux en bon état, pas de fièvre. Je
+Je suppose que nous devrons simplement attendre qu'il se réveille.
+
+Ils sont allés dans le salon et Sandra les a laissés préparer du café.
+
+« Il traverse une épreuve », dit Franstein. « Dommage que tu n'aies pas
+l'enregistreur ici."
+
+« J'ai pensé la même chose. Je vais l'acheter. »
+
+Snow partit et Franstein retourna dans la chambre et se pencha
+Richardson. Il était maintenant certain que c'était une langue et que le dormeur
+conversait avec quelqu'un dans son sommeil. Les expressions changeaient sur
+Le visage de Richardson change rapidement, comme ils le font sur le visage de n'importe qui pendant une
+conversation. À un moment, il rit en disant quelque chose, puis
+il est devenu sérieux en disant autre chose.
+
+Sandra entra dans la chambre et rejoignit Franstein à son chevet. « Il est
+« Je n’ai jamais été comme ça avant », dit-elle avec inquiétude.
+
+« Il ne parle jamais en dormant ? »
+
+Il ne ronfle jamais. Quand nous étions mariés, il dormait si tranquillement.
+que je pensais qu'il avait arrêté de respirer, mais il me suffirait de le toucher
+Ou murmurez-lui quelque chose et il se réveillera instantanément. Qu'est-ce que ça veut dire ?
+
+« Nous le saurons, n’ayez crainte. »
+
+Ils retournèrent dans le salon lorsqu'ils entendirent Snow revenir. Il était
+portant l'appareil d'enregistrement et voyant la question dans la bouche de Sandra
+yeux comme elle le voyait, il dit d'un ton rassurant : « Nous allons faire un
+Enregistrement des propos de Ham. Nous découvrirons bientôt de quoi il s'agit.
+à propos de."
+
+Il s'occupa à changer les bandes sur la machine, prenant la nouvelle
+Il en sortit un de sa poche et, dans sa hâte, il le manipula. Il avait branché
+dans le microphone et déroulait le long accord quand ils entendirent
+La voix de Richardson résonna dans la pièce voisine : « Sandra ! » et un instant plus tard
+plus tard, Richardson apparut dans l'embrasure de la porte, les regardant fixement
+étonnement.
+
+« Abe ! Phil ! Quand es-tu arrivé ici ? »
+
+« Il y a environ une demi-heure », répondit Snow.
+
+       * * * * *
+
+Richardson se passa la main sur les yeux. « J'ai dû m'endormir », dit-il.
+dit.
+
+« Tu l'as fait, chérie, et je n'ai pas réussi à te réveiller », dit Sandra. « Alors j'ai appelé.
+Phil."
+
+« Tu n’as pas pu me réveiller ? »
+
+« Non, et tu parlais dans ton sommeil. Tu m'inquiétais. »
+
+"Pourquoi?"
+
+Sandra, désemparée, regarda Franstein et il répondit à sa place. « Tu
+« Nous rêvons, Ham », dit-il.
+
+Richardson réfléchit un instant avant de répondre. « Maintenant que vous mentionnez
+C'est vrai. Mais qu'y a-t-il d'extraordinaire là-dedans ? Pourquoi êtes-vous tous
+me regardant comme si j'avais soudainement poussé des cornes ?
+
+« Tu te souviens de ce que disait ce rêve ? » demanda Franstein.
+
+« Vaguement. Oui, c'est vrai. C'était juste un rêve. Pourquoi est-ce si important ? » Il
+Je m'assis dans un fauteuil profond et les observai. « Qu'est-ce que c'est que tout ça ? »
+Il a dit. « Je m'endors pendant une demi-heure, je fais un rêve idiot et je me réveille
+jusqu'à te trouver ici, comme si quelque chose d'important s'était produit.
+
+« Il s'est passé quelque chose, Ham », dit Franstein. « Quelque chose qu'on ne sait pas.
+Je comprends." Richardson sursauta sur son siège. "Du calme, il y a
+Il n'y a pas de quoi s'inquiéter. On va aller au fond des choses. » Il se tourna vers
+Neige. « Je crois que je sais comment m'en sortir. » Écoutez l'enregistrement pour Ham.
+d'entendre."
+
+Snow hésita un instant. « D'accord, si tu le penses », dit-il, et
+il s'occupa de l'enregistreur, remplaçant la bande usagée sur la bobine.
+
+Sandra s'est perchée sur l'accoudoir de la chaise de son mari et a posé un bras
+autour de ses épaules. Ils attendirent que Snow rattache l'extrémité du
+Il appuya sur le bouton de lecture et, aussitôt,
+les voix de Snow et Richardson se firent entendre.
+
+« C'est le test de cet après-midi », a déclaré Richardson.
+
+Franstein hocha la tête, et ils continuèrent à écouter. Puis vinrent les chants.
+sons, et quand il les entendit, l'expression de Richardson changea en une
+d'étonnement. Snow éteignit la machine.
+
+« Qu'est-ce que c'était ? » demanda Richardson.
+
+« Nous espérions que vous seriez en mesure de nous le dire », répondit Franstein.
+
+« Moi ? Que devrais-je savoir à ce sujet ? »
+
+« C'était ta voix, Ham. Personne n'a touché la bande, et je l'ai entendue.
+pendant le test."
+
+« Mais c'est fou. Comment ai-je pu faire un bruit pareil sans savoir
+quelque chose à ce sujet ? Eh bien, je me souviens de chaque seconde de ce test, et je
+Je sais que je n'ai rien fait de tel. Il sauta sur ses pieds et commença
+de marcher dans la pièce, les mains pressées sur la tête.
+
+« Je t'ai dit de te calmer, Ham », dit Franstein.
+
+Richardson s'arrêta net dans sa course et se tourna vers le petit
+homme. « Comment puis-je me détendre ? Je passe six heures dans la capsule dans un
+test difficile, souvenez-vous-en de chaque instant, sortez-en avec le sentiment de ne pas
+même fatigué, et maintenant tu me dis qu'au milieu de tout ça j'ai eu quelques
+une sorte de black-out et des bruits bizarres. Ça ne peut que signifier que
+il y a quelque chose qui ne va pas chez moi, et tu n'as pas à me dire quoi
+Ça veut dire… Je ne suis pas qualifié, après tout. C'est pour ça que tu es venu ici ?
+dites-moi?"
+
+       * * * * *
+
+La voix de Franstein était aussi basse qu'avant. « Cela ne veut rien dire de
+le genre. S'il y avait eu une panne de courant ou si quelque chose d'autre s'était produit
+à votre cerveau, cela aurait été visible sur l'encéphalogramme, et
+Rien n'était visible. Je n'en étais pas au courant avant d'entendre l'enregistrement.
+et nous n'allions rien dire à ce sujet avant d'avoir effectué le test
+une deuxième fois. Puis Sandra nous a appelés pour nous dire qu'elle ne pouvait pas te réveiller et
+que tu parlais dans ton sommeil, et nous sommes venus te trouver dans un
+« Je dors aussi profondément qu'un coma et je rêve évidemment. »
+
+« Et qu'est-ce que cela a à voir avec le test ? »
+
+« Tu faisais le même genre de bruits dans ton sommeil que dans
+le test, et je suis sûr qu'ils s'ajoutent à une sorte de langage.
+
+"_Quoi ?_ Tu veux dire que c'était une langue ? Pour l'amour du ciel, j'ai
+Je n'ai jamais parlé autre chose qu'anglais de toute ma vie. Je ne peux pas.
+
+« Nous le savons. »
+
+Richardson se tourna vers sa femme. « Est-ce vrai ? » lui demanda-t-il d'une voix tendue.
+« Est-ce que je faisais des bruits comme ça pendant mon sommeil ? »
+
+Elle hocha la tête, misérablement.
+
+Il leva les mains. « OK », dit-il, « vous êtes trois contre un. L'as
+L'astronaute s'avère être une sorte de fou qui parle le langage des singes
+dans son sommeil, et quand il est éveillé aussi, sans le savoir." Il est allé à
+la chaise profonde et s'y laissa tomber. « Qu'est-ce qu'on fait maintenant ? Aller dans
+Encore une analyse ? Tout recommencer ? » Il rit brièvement et amèrement, et
+ajouté : « Ou dois-je démissionner du projet ? »
+
+« Écoute, Ham », dit Franstein. « On affronte quelque chose de nouveau,
+quelque chose que je ne comprends pas, et quoi qu'il arrive, nous devons essayer
+et découvrez ce que c'est, pour votre bien ainsi que pour celui du projet.
+Détendons-nous et commençons par le rêve. Racontez-nous ce dont vous vous souvenez.
+
+Richardson a pris le temps de se calmer avant de parler. « C'était juste un
+« rêve », commença-t-il aussitôt. « Il y avait un grand vaisseau spatial et beaucoup de
+des gens debout autour."
+
+« Où était-ce ? »
+
+« Où ? Je ne sais pas. Sur Terre, je suppose. Un endroit ouvert, tu sais,
+seulement… » Il marqua une pause avant de continuer. « Seulement, il ne tenait pas debout.
+Comme une fusée. Elle était couchée sur le flanc, et nous étions en train de la charger.
+
+« Qui étions « nous » ? »
+
+« Mon père et mes deux frères. Et cela montre à quel point le rêve était absurde.
+Parce que je n'ai ni frère ni père. Mon père dans le rêve
+Il n'avait rien à voir avec le mien. C'était juste un vieil homme, et il nous a raconté
+où ranger les caisses."
+
+« Qu'y avait-il dans les caisses ? »
+
+« Dans les caisses ? » Richardson leva les yeux. « Voyons voir. Oh, oui, ils…
+étaient remplis de graines de plantes, d'œufs et de sperme d'animaux, en quelque sorte
+les débuts des choses."
+
+« Et où allait le bateau ? »
+
+       * * * * *
+
+Richardson se concentra à nouveau avant de répondre. « Vers une autre Terre », dit-il.
+dit. « C'est vrai. Le vieux, notre père, disait que celui-ci était
+va être détruit par une catastrophe, et les gens qui se tiennent autour
+Ils riaient, se moquaient et disaient que le vieil homme était fou.
+
+« Savez-vous quel genre de catastrophe allait se produire ? » demanda
+Franstein.
+
+Richardson le regarda et soudain un sourire se forma sur son visage. « Maintenant
+« Je sais d'où vient ce rêve », dit-il. « Souviens-toi de ce livre _On
+La Plage_? L'histoire de la façon dont tous les habitants de la Terre ont été anéantis par
+Des retombées nucléaires ? C'est tout ! Je me souviens m'être demandé en le lisant si
+d'entre nous seraient capables d'aller sur une autre planète avant quelque chose comme ça
+s'est produit ici, et je me souviens avoir pensé aussi que nous prendrions probablement
+des choses comme des graines et ainsi de suite avec nous, et même les ovules des animaux, et
+que d'ici là, nous saurions probablement comment les conserver : les congeler ou
+quelque chose de ce genre."
+
+« Nous pouvons le faire maintenant », a déclaré Snow.
+
+« Eh bien, voilà, alors », dit Richardson en souriant à nouveau. « Voilà le
+explication."
+
+« Cela explique bien le rêve », a convenu Snow, « mais qu'en est-il du
+Des sons ? Surtout ceux que tu as produits dans la capsule ?
+
+« Seigneur, oui ! » dit Richardson, et le sourire quitta son visage. « Je…
+On les a oubliés. Ça nous ramène au point de départ, n'est-ce pas ?
+il?"
+
+« Je n'en suis pas si sûr », dit Franstein. Il se leva et, à son tour,
+rôdait dans la pièce, perdu dans ses pensées. Les autres attendaient
+l'invita à continuer, et il se tourna aussitôt vers eux, une lueur d'excitation dans
+ses yeux. « Je crois qu'on est sur quelque chose », dit-il. « Ces bruits sont
+évidemment une partie de ton rêve, Ham, y compris ceux que tu as réalisés dans le
+capsule, et vous seul savez ce qu'ils signifient."
+
+« Mais je ne me souviens même pas de les avoir faits ! »
+
+« Non, mais ton esprit, lui, oui. Si nous pouvons déverrouiller ton esprit, nous pourrons trouver le
+secret, et il existe un moyen d'y parvenir : l'hypnose.
+
+« Hypnose ? » Les autres répondirent aussitôt.
+
+Franstein hocha la tête. « Je dois te mettre en transe hypnotique, Ham,
+et nous vous ferons écouter cet enregistrement et je pense – je pense seulement,
+N'oubliez pas que vous allez pouvoir nous dire ce qu'ils signifient.
+objection, Phil ?
+
+« Tu es l'expert. »
+
+"Et toi, Ham ?"
+
+« Je ferai tout pour régler cette affaire. » Il se leva d'un bond.
+« Allons-y, maintenant. Qu'est-ce que je fais ? Je m'allonge sur le canapé ? »
+
+« Je ne savais pas que tu étais aussi hypnotiseur, Abe », dit Snow. « Je ne suis pas…
+Je suis surpris, cependant. J'aurais pu le savoir.
+
+Franstein n'y prêta aucune attention. Il s'approcha de Richardson et
+leva les yeux vers lui, tendant une main et l'autre, avec étonnement,
+« L'important, c'est la confiance, Ham », dit-il en levant les yeux
+avec sérieux. « Une confiance totale. Tu as ça en moi ? »
+
+Richardson regarda le petit homme et hocha la tête. « Bien sûr. »
+« J'ai toujours eu ça en toi, Abe. »
+
+Franstein continua de tenir la main de l'autre. « C'est bien », dit-il.
+« Tout ce que tu as à faire, c'est de te détendre et de me faire confiance. Détends-toi complètement. »
+Laisse-toi aller, hein ?
+
+       * * * * *
+
+La tête de Richardson hocha à nouveau, et pendant un moment Franstein, toujours
+tenant la main continuait à regarder le visage de Richardson au-dessus
+Puis il relâcha la main et dit : « Maintenant, tu peux t'allonger sur le
+canapé si tu veux."
+
+Richardson s'est approché du canapé et s'est allongé dessus.
+
+« J'en ai beaucoup entendu parler », a déclaré Sandra, « mais je ne l'ai jamais vu
+fait."
+
+Franstein lui sourit. « Tu viens de le voir faire, ma chère », dit-il.
+et tandis qu'elle le regardait avec étonnement, elle ajouta : « C'est un très bon
+sujet. Maintenant, quand cette machine sera prête… »
+
+« Si j'ai raison dans ce que je pense », a déclaré Franstein quelques minutes plus tard à
+Snow, qui se tenait près de la table sur laquelle reposait maintenant l'enregistreur, et
+Sandra qui était à la tête du canapé regardait son mari qui
+allongé là, les yeux mi-clos, « tu vas entendre quelque chose de très
+surprenant. S'il vous plaît, ne faites pas de bruit.
+
+Ils hochèrent la tête et Franstein s'assit au bord de la
+sur le canapé, se pencha sur Richardson et parla doucement : « Tu m'entends, Ham ? »
+
+« Oui, je t'entends. »
+
+« Alors écoute. » Franstein se tourna et fit un signe de tête à Snow. La machine était
+allumé et là, clairement, les sons chantés du test.
+Ils eurent fini et la machine fut éteinte. « Tu as entendu, Ham ? »
+
+« Oui, j'ai entendu. »
+
+« Tu as fait ces bruits que nous venons d’entendre. »
+
+"Oui."
+
+« Peux-tu les répéter ? »
+
+"Oui."
+
+« Alors fais-le. »
+
+Et maintenant, les étranges sons de chants bas provenaient de Richardson
+lèvres. Sandra porta ses mains à sa bouche pour étouffer un halètement. Snow fit un pas
+à ses côtés, le visage tendu.
+
+Les bruits cessèrent et Franstein, les yeux brillants d'excitation, dit
+doucement : « Dis-nous, à qui parles-tu ? »
+
+« À mes fils. »
+
+« Dites-nous en anglais ce que vous leur dites. »
+
+Il y eut un silence. Franstein répéta son ordre, et Richardson
+il parla à nouveau, cette fois avec sa voix normale.
+
+« _Et Dieu vit la terre, et voici, elle était corrompue ; car toute chair
+avaient corrompu leur voie sur la terre. Et Dieu dit à Noé : J'ai
+déterminé à mettre fin à toute chair ; car la terre est remplie de
+violence à travers eux ; voici, je vais les détruire avec la terre. Faites
+toi-même une arche... et tu entreras dans l'arche, toi, tes fils,
+ta femme et les femmes de tes fils avec toi. Et de tout ce qui vit de
+de toute chair, tu feras entrer dans l'arche deux de chaque espèce pour les garder
+vivant avec toi, ils seront mâle et femelle.... Prends aussi avec toi
+toutes sortes de nourriture qui sont mangées et les stocker.... Et Noé fit tout
+que le Seigneur lui avait commandé._..."
+
+La voix s'éteignit dans le silence, et Sandra, les yeux écarquillés de peur
+et l'étonnement murmura : « C'est l'histoire du Déluge et il l'a racontée
+Comme s'il était là. Qu'est-ce que ça veut dire ?
+
+Franstein la fit taire d'un geste et se pencha sur Richardson dont
+Les yeux fermés. « Jambon », dit-il d'une voix insistante,
+"Tu m'entends ? Réponds !"
+
+Les yeux mi-clos. « Oui, je t'entends. »
+
+« Dis-moi, où es-tu allé dans l’arche ? »
+
+« Vers un lieu de grandes eaux... de grandes eaux, et nous nous sommes reposés sur elles jusqu'à
+Ils sont tombés." Maintenant, la voix s'estompait.
+
+« Où était-il ? Dis-moi, où était-il ? »
+
+La réponse est venue presque dans un murmure. « Je ne sais pas. C'était un autre
+la terre... une autre terre..."
+
+Les yeux se refermèrent, la respiration devint plus profonde, mais les lèvres restèrent immobiles.
+déplacé, et à travers eux, à peine entendu dans le silence tendu, revint
+les sons bas et chantants. Puis, eux aussi, s'éteignirent dans le silence,
+Les lèvres cessèrent de bouger et Richardson s'endormit.
+
+
+
+
+
+Fin du projet Another Earth de Gutenberg, de David Evans et Al Landau
+
+
+
+*** FIN DU PROJET GUTENBERG EBOOK UNE AUTRE TERRE ***
+
+
+    
+
+Les éditions mises à jour remplaceront les précédentes – les anciennes éditions
+être renommé.
+
+Création d'œuvres à partir d'éditions imprimées non protégées par le droit d'auteur américain
+la loi signifie que personne ne possède de droits d'auteur aux États-Unis sur ces œuvres,
+afin que la Fondation (et vous !) puisse le copier et le distribuer aux États-Unis
+États sans autorisation et sans payer de droits d'auteur
+redevances. Règles particulières, énoncées dans la partie Conditions générales d'utilisation
+de cette licence, s'appliquent à la copie et à la distribution du projet
+Œuvres électroniques Gutenberg™ pour protéger le PROJET GUTENBERG™
+concept et marque déposée. Projet Gutenberg est une marque déposée,
+et ne peut pas être utilisé si vous facturez un livre électronique, sauf en suivant
+les termes de la licence de marque, y compris le paiement des redevances d'utilisation
+de la marque déposée du Projet Gutenberg. Si vous ne facturez rien pour
+copies de cet eBook, se conformer à la licence de marque est très
+facile. Vous pouvez utiliser ce livre numérique pour presque n'importe quel but, comme la création
+d'œuvres dérivées, de rapports, de performances et de recherches. Projet
+Les livres électroniques de Gutenberg peuvent être modifiés, imprimés et distribués.
+faire pratiquement TOUT aux États-Unis avec des livres électroniques non protégés
+par la loi américaine sur le droit d'auteur. La redistribution est soumise à la marque déposée
+licence, notamment de redistribution commerciale.
+
+
+DÉBUT : LICENCE COMPLÈTE
+
+LA LICENCE COMPLÈTE DU PROJET GUTENBERG
+
+VEUILLEZ LIRE CECI AVANT DE DISTRIBUER OU D'UTILISER CETTE ŒUVRE
+
+Pour protéger la mission du Projet Gutenberg™ de promouvoir la liberté
+distribution d'œuvres électroniques, en utilisant ou en distribuant cette œuvre
+(ou toute autre œuvre associée de quelque manière que ce soit à l'expression « Projet
+Gutenberg"), vous acceptez de vous conformer à tous les termes du contrat complet
+Licence Project Gutenberg™ disponible avec ce fichier ou en ligne sur
+www.gutenberg.org/licence.
+
+Section 1. Conditions générales d'utilisation et de redistribution du Projet Gutenberg™
+œuvres électroniques
+
+1.A. En lisant ou en utilisant une partie quelconque de ce Projet Gutenberg™
+œuvre électronique, vous indiquez que vous avez lu, compris et accepté
+et acceptez tous les termes de cette licence et de la propriété intellectuelle
+(marque/droit d'auteur). Si vous n'acceptez pas de respecter l'intégralité
+aux termes de cet accord, vous devez cesser d'utiliser et retourner ou
+détruire toutes les copies des œuvres électroniques du Projet Gutenberg™ dans votre
+possession. Si vous avez payé des frais pour obtenir une copie ou l'accès à un
+Projet Gutenberg™ œuvre électronique et vous n'acceptez pas d'être lié
+aux termes de cet accord, vous pouvez obtenir un remboursement de la personne
+ou l'entité à laquelle vous avez payé les frais tels qu'énoncés au paragraphe 1.E.8.
+
+1.B. « Projet Gutenberg » est une marque déposée. Elle ne peut être utilisée que
+utilisé ou associé de quelque manière que ce soit à une œuvre électronique par des personnes qui
+acceptez d'être lié par les termes de cet accord. Il existe quelques
+choses que vous pouvez faire avec la plupart des œuvres électroniques du Projet Gutenberg™
+même sans respecter l'intégralité des termes du présent accord. Voir
+paragraphe 1.C ci-dessous. Vous pouvez faire beaucoup de choses avec Project
+Œuvres électroniques Gutenberg™ si vous respectez les conditions de ce
+accord et aider à préserver l'accès futur gratuit au projet Gutenberg™
+œuvres électroniques. Voir paragraphe 1.E ci-dessous.
+
+1.C. La Fondation des Archives Littéraires du Projet Gutenberg (« la
+(Fondation) détient un droit d'auteur de compilation sur la collection
+des œuvres électroniques du Projet Gutenberg™. Presque toutes les œuvres individuelles
+les œuvres de la collection sont dans le domaine public aux États-Unis
+États. Si une œuvre individuelle n'est pas protégée par la loi sur le droit d'auteur dans le
+États-Unis et vous êtes situé aux États-Unis, nous ne
+revendiquer le droit de vous empêcher de copier, distribuer, exécuter,
+afficher ou créer des œuvres dérivées basées sur l'œuvre tant que
+toutes les références au Projet Gutenberg sont supprimées. Bien sûr, nous espérons
+que vous soutiendrez la mission du Projet Gutenberg™ de promotion
+accès gratuit aux œuvres électroniques en partageant librement le Projet Gutenberg™
+travaille en conformité avec les termes du présent accord pour conserver les
+Nom du Projet Gutenberg™ associé à l'œuvre. Vous pouvez facilement
+respecter les termes de cet accord en conservant cette œuvre dans le
+même format avec sa licence complète Project Gutenberg™ jointe lorsque
+vous le partagez gratuitement avec d'autres.
+
+1.D. Les lois sur le droit d'auteur du lieu où vous vous trouvez régissent également
+ce que vous pouvez faire avec cette œuvre. Les lois sur le droit d'auteur dans la plupart des pays sont
+en constante évolution. Si vous êtes hors des États-Unis,
+vérifiez les lois de votre pays en plus des termes de ce
+accord avant de télécharger, copier, afficher, exécuter,
+distribuer ou créer des œuvres dérivées basées sur cette œuvre ou toute autre
+d'autres travaux du Projet Gutenberg™. La Fondation ne fait aucun
+représentations concernant le statut du droit d'auteur de toute œuvre dans n'importe quel
+pays autre que les États-Unis.
+
+1.E. À moins que vous n'ayez supprimé toutes les références au projet Gutenberg :
+
+1.E.1. La phrase suivante, avec des liens actifs vers, ou autre
+accès immédiat à, la licence complète du projet Gutenberg™ doit apparaître
+de manière visible chaque fois qu'une copie d'une œuvre du Projet Gutenberg™ (toute œuvre
+sur lequel apparaît la phrase « Projet Gutenberg », ou avec laquelle
+l'expression « Projet Gutenberg » est associée) est accessible, affichée,
+exécuté, visualisé, copié ou distribué :
+
+    Ce livre électronique est destiné à être utilisé par toute personne, n'importe où aux États-Unis et la plupart
+    d'autres parties du monde sans frais et avec presque aucune restriction
+    Vous pouvez le copier, le donner ou le réutiliser selon les conditions
+    de la licence Project Gutenberg incluse avec cet eBook ou en ligne
+    sur www.gutenberg.org. Si vous
+    ne sont pas situés aux États-Unis, vous devrez vérifier les lois
+    du pays dans lequel vous vous trouvez avant d'utiliser cet eBook.
+  
+1.E.2. Si une œuvre électronique individuelle du Projet Gutenberg™ est
+dérivé de textes non protégés par la loi américaine sur le droit d'auteur (ne
+contenir un avis indiquant qu'il est publié avec la permission du
+titulaire du droit d'auteur), l'œuvre peut être copiée et distribuée à toute personne
+aux États-Unis sans payer de frais. Si vous êtes
+redistribuer ou donner accès à une œuvre avec la phrase « Projet
+Gutenberg” associé à ou apparaissant sur l'œuvre, vous devez vous conformer
+soit aux exigences des paragraphes 1.E.1 à 1.E.7, soit
+obtenir l'autorisation d'utiliser l'œuvre et le Projet Gutenberg™
+marque déposée telle que définie aux paragraphes 1.E.8 ou 1.E.9.
+
+1.E.3. Si une œuvre électronique individuelle du Projet Gutenberg™ est publiée
+avec la permission du détenteur des droits d'auteur, votre utilisation et votre distribution
+doit se conformer aux paragraphes 1.E.1 à 1.E.7 et à tout
+conditions supplémentaires imposées par le titulaire du droit d'auteur. Conditions supplémentaires
+sera lié à la licence Project Gutenberg™ pour toutes les œuvres
+publié avec la permission du détenteur des droits d'auteur trouvé à l'adresse
+début de ce travail.
+
+1.E.4. Ne pas dissocier, détacher ou supprimer l'intégralité du Projet Gutenberg™
+Conditions de licence de cette œuvre ou de tout fichier contenant une partie de celle-ci
+travail ou tout autre travail associé au Projet Gutenberg™.
+
+1.E.5. Ne pas copier, afficher, exécuter, distribuer ou redistribuer ce
+œuvre électronique, ou toute partie de cette œuvre électronique, sans
+affichant de manière visible la phrase énoncée au paragraphe 1.E.1 avec
+liens actifs ou accès immédiat aux conditions complètes du projet
+Licence Gutenberg™.
+
+1.E.6. Vous pouvez convertir et distribuer cette œuvre dans n'importe quel format binaire,
+forme compressée, balisée, non exclusive ou exclusive, y compris
+tout traitement de texte ou forme hypertexte. Cependant, si vous fournissez l'accès
+ou distribuer des copies d'une œuvre du Projet Gutenberg™ dans un format
+autre que « Plain Vanilla ASCII » ou autre format utilisé dans le document officiel
+version publiée sur le site officiel du Projet Gutenberg™
+(www.gutenberg.org), vous devez, sans frais, honoraires ou dépenses supplémentaires
+à l'utilisateur, fournir une copie, un moyen d'exporter une copie ou un moyen
+d'obtenir une copie sur demande, de l'œuvre dans son original « Plain
+ASCII standard ou autre format. Tout autre format doit inclure le
+Licence complète du projet Gutenberg™ telle que spécifiée au paragraphe 1.E.1.
+
+1.E.7. Ne facturez pas de frais pour l'accès, la visualisation, l'affichage,
+exécuter, copier ou distribuer toute œuvre du Projet Gutenberg™
+sauf si vous vous conformez au paragraphe 1.E.8 ou 1.E.9.
+
+1.E.8. Vous pouvez facturer des frais raisonnables pour les copies ou la fourniture
+accès ou distribution des œuvres électroniques du Projet Gutenberg™
+à condition que:
+
+    • Vous payez une redevance de 20 % des bénéfices bruts que vous tirez de
+        l'utilisation des œuvres du Projet Gutenberg™ calculées selon la méthode
+        Vous utilisez déjà ce formulaire pour calculer vos impôts applicables. Ces frais sont dus.
+        au propriétaire de la marque Project Gutenberg™, mais il a
+        a accepté de faire don des redevances en vertu de ce paragraphe au projet
+        Fondation des Archives littéraires Gutenberg. Les droits d'auteur doivent être acquittés.
+        dans les 60 jours suivant chaque date à laquelle vous vous préparez (ou êtes
+        légalement tenu de préparer) vos déclarations de revenus périodiques. Redevance
+        les paiements doivent être clairement indiqués comme tels et envoyés au projet
+        Fondation des Archives Littéraires Gutenberg à l'adresse indiquée dans
+        Section 4, « Informations sur les dons au projet Gutenberg
+        Fondation des archives littéraires.
+    
+    • Vous fournissez un remboursement complet de toute somme versée par un utilisateur qui notifie
+        vous par écrit (ou par e-mail) dans les 30 jours suivant la réception qu'il/elle
+        n'accepte pas les termes de l'intégralité du projet Gutenberg™
+        Licence. Vous devez exiger d'un tel utilisateur qu'il restitue ou détruise tous
+        copies des œuvres possédées sur un support physique et cesser
+        toute utilisation et tout accès à d'autres copies du Projet Gutenberg™
+        travaux.
+    
+    • Vous fournissez, conformément au paragraphe 1.F.3, un remboursement intégral de
+        toute somme versée pour une œuvre ou une copie de remplacement, si un défaut dans l'
+        le travail électronique est découvert et vous est signalé dans les 90 jours suivant
+        réception des travaux.
+    
+    • Vous vous conformez gratuitement à toutes les autres conditions de cet accord
+        distribution des œuvres du Projet Gutenberg™.
+    
+
+1.E.9. Si vous souhaitez facturer des frais ou distribuer un projet
+Œuvre électronique ou groupe d'œuvres Gutenberg™ selon des conditions différentes de celles
+sont énoncées dans le présent accord, vous devez obtenir une autorisation écrite
+de la Fondation des Archives Littéraires du Projet Gutenberg, le gestionnaire de
+la marque déposée du Projet Gutenberg™. Contactez la Fondation au plus vite
+présentées dans la section 3 ci-dessous.
+
+1.F.
+
+1.F.1. Les bénévoles et les employés du Projet Gutenberg dépensent des sommes considérables
+effort pour identifier, faire des recherches sur les droits d'auteur, transcrire et relire
+œuvres non protégées par la loi américaine sur le droit d'auteur lors de la création du projet
+Collection Gutenberg™. Malgré ces efforts, le Projet Gutenberg™
+les œuvres électroniques et le support sur lequel elles peuvent être stockées peuvent
+contenir des « défauts », tels que, mais sans s'y limiter, des informations incomplètes, inexactes
+ou des données corrompues, des erreurs de transcription, un droit d'auteur ou autre
+violation de la propriété intellectuelle, un disque défectueux ou endommagé ou
+autre support, un virus informatique ou des codes informatiques qui endommagent ou
+ne peut pas être lu par votre équipement.
+
+1.F.2. GARANTIE LIMITÉE, EXCLUSION DE DOMMAGES - À l'exception du « Droit
+de remplacement ou de remboursement » décrit au paragraphe 1.F.3, le projet
+Fondation des archives littéraires Gutenberg, propriétaire du projet
+Marque déposée Gutenberg™ et toute autre partie distribuant un projet
+Les œuvres électroniques Gutenberg™ en vertu du présent accord déclinent toute responsabilité
+responsabilité envers vous pour les dommages, les coûts et les dépenses, y compris les frais juridiques
+frais. VOUS CONVENEZ QUE VOUS N'AVEZ AUCUN RECOURS EN CAS DE NÉGLIGENCE, STRICT
+RESPONSABILITÉ, RUPTURE DE GARANTIE OU RUPTURE DE CONTRAT, SAUF CELLES
+PRÉVU AU PARAGRAPHE 1.F.3. VOUS CONVENEZ QUE LA FONDATION, LA
+LE PROPRIÉTAIRE DE LA MARQUE ET TOUT DISTRIBUTEUR DANS LE CADRE DU PRÉSENT CONTRAT NE SERONT PAS
+RESPONSABLE ENVERS VOUS DES DOMMAGES RÉELS, DIRECTS, INDIRECTS, CONSÉCUTIFS, PUNITIFS OU
+DOMMAGES ACCESSOIRES MÊME SI VOUS DONNEZ AVIS DE LA POSSIBILITÉ DE TELS
+DOMMAGE.
+
+1.F.3. DROIT LIMITÉ DE REMPLACEMENT OU DE REMBOURSEMENT - Si vous découvrez un
+défaut dans cette œuvre électronique dans les 90 jours suivant sa réception, vous pouvez
+recevoir un remboursement de l'argent (le cas échéant) que vous avez payé en envoyant un
+explication écrite à la personne qui vous a fourni l'œuvre. Si vous
+reçu l'œuvre sur un support physique, vous devez retourner le support
+avec votre explication écrite. La personne ou l'entité qui vous a fourni
+avec l'œuvre défectueuse peut choisir de fournir une copie de remplacement dans
+au lieu d'un remboursement. Si vous avez reçu l'œuvre par voie électronique, la personne
+ou l'entité qui vous le fournit peut choisir de vous donner une seconde
+possibilité de recevoir l'œuvre par voie électronique en lieu et place d'un remboursement. Si
+le deuxième exemplaire est également défectueux, vous pouvez demander un remboursement par écrit
+sans autre possibilité de résoudre le problème.
+
+1.F.4. À l'exception du droit limité de remplacement ou de remboursement énoncé
+au paragraphe 1.F.3, ce travail vous est fourni « TEL QUEL », SANS
+AUTRES GARANTIES DE TOUTE NATURE, EXPRESSES OU IMPLICITES, Y COMPRIS, MAIS SANS S'Y LIMITER
+LIMITÉ AUX GARANTIES DE QUALITÉ MARCHANDE OU D'ADÉQUATION À UN USAGE QUELCONQUE.
+
+1.F.5. Certains États n'autorisent pas les clauses de non-responsabilité concernant certaines clauses implicites.
+garanties ou l'exclusion ou la limitation de certains types de
+dommages. Si une clause de non-responsabilité ou une limitation énoncée dans le présent contrat
+viole la loi de l'État applicable à cet accord, le
+l'accord doit être interprété comme comportant la clause de non-responsabilité maximale ou
+limitation permise par la loi de l'État applicable. L'invalidité ou
+l'inapplicabilité de toute disposition du présent accord n'annulera pas la
+dispositions restantes.
+
+1.F.6. INDEMNITÉ - Vous acceptez d'indemniser et de dégager la Fondation, la
+propriétaire de la marque, tout agent ou employé de la Fondation, toute personne
+fournir des copies des œuvres électroniques du Projet Gutenberg™ en
+conformément au présent accord, et tous les bénévoles associés à la
+production, promotion et distribution du Projet Gutenberg™
+œuvres électroniques, indemnes de toute responsabilité, coûts et dépenses,
+y compris les frais juridiques, qui découlent directement ou indirectement de l'un des
+les actes suivants que vous faites ou provoquez : (a) la distribution de ce
+ou toute œuvre du Projet Gutenberg™, (b) altération, modification ou
+ajouts ou suppressions à toute œuvre du Projet Gutenberg™, et (c) toute
+Défaut que vous causez.
+
+Section 2. Informations sur la mission du projet Gutenberg™
+
+Le projet Gutenberg™ est synonyme de distribution gratuite de
+œuvres électroniques dans des formats lisibles par la plus grande variété de
+ordinateurs, y compris les ordinateurs obsolètes, vieux, d'âge moyen et récents. Il
+existe grâce aux efforts de centaines de bénévoles et de dons
+de personnes de tous horizons.
+
+Bénévoles et soutien financier pour fournir aux bénévoles les
+l'aide dont ils ont besoin est essentielle pour atteindre les objectifs du Projet Gutenberg™
+objectifs et de veiller à ce que la collection du Projet Gutenberg™
+rester librement accessibles aux générations futures. En 2001, le Projet
+La Fondation des Archives Littéraires Gutenberg a été créée pour fournir un espace de stockage sécurisé
+et un avenir permanent pour le projet Gutenberg™ et l'avenir
+générations. Pour en savoir plus sur le Projet littéraire Gutenberg
+Fondation des archives et comment vos efforts et vos dons peuvent aider, voir
+Sections 3 et 4 et la page d'information de la Fondation sur www.gutenberg.org.
+
+Section 3. Informations sur la Fondation des archives littéraires du projet Gutenberg
+
+La Fondation des Archives Littéraires du Projet Gutenberg est une organisation à but non lucratif
+Société éducative 501(c)(3) organisée en vertu des lois de la
+État du Mississippi et a obtenu le statut d'exonération fiscale par l'Internal
+Service des impôts. Numéro d'identification fiscale fédéral (EIN) de la Fondation.
+Le numéro est 64-6221541. Contributions au Projet littéraire Gutenberg
+Les fonds de la Fondation des Archives sont déductibles d'impôt dans toute la mesure permise par
+Lois fédérales américaines et lois de votre État.
+
+Le bureau d'affaires de la Fondation est situé au 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Liens de contact par e-mail et plus.
+à ce jour, les coordonnées peuvent être trouvées sur le site Web de la Fondation
+et page officielle sur www.gutenberg.org/contact
+
+Section 4. Informations sur les dons au projet Gutenberg
+Fondation des archives littéraires
+
+Le projet Gutenberg™ dépend et ne peut survivre sans une diffusion généralisée
+soutien public et dons pour mener à bien sa mission de
+augmenter le nombre d'œuvres du domaine public et sous licence qui peuvent être
+distribué gratuitement sous une forme lisible par machine et accessible au plus grand nombre
+équipement varié, y compris du matériel obsolète. Nombreux petits dons.
+(1 à 5 000 $) sont particulièrement importants pour maintenir l'exonération fiscale
+statut auprès de l'IRS.
+
+La Fondation s'engage à respecter les lois régissant
+organismes de bienfaisance et dons de bienfaisance dans les 50 États des États-Unis
+États. Les exigences de conformité ne sont pas uniformes et il faut
+des efforts considérables, beaucoup de paperasse et de nombreux frais à respecter et à maintenir
+avec ces exigences. Nous ne sollicitons pas de dons dans les lieux
+où nous n'avons pas reçu de confirmation écrite de conformité. À ENVOYER
+DONS ou déterminer l'état de conformité pour un État particulier
+visitez www.gutenberg.org/donate.
+
+Bien que nous ne puissions pas et ne sollicitions pas de contributions des États dans lesquels nous
+n'ont pas satisfait aux exigences de l'appel d'offres, nous ne connaissons aucune interdiction
+contre l’acceptation de dons non sollicités de donateurs dans ces États qui
+contactez-nous avec des offres de don.
+
+Les dons internationaux sont acceptés avec gratitude, mais nous ne pouvons pas faire
+toute déclaration concernant le traitement fiscal des dons reçus de
+en dehors des États-Unis. Les lois américaines à elles seules submergent notre petit personnel.
+
+Veuillez consulter les pages Web du Projet Gutenberg pour connaître les dons actuels.
+méthodes et adresses. Les dons sont acceptés dans un certain nombre d'autres
+moyens, y compris les chèques, les paiements en ligne et les dons par carte de crédit.
+Pour faire un don, veuillez visiter : www.gutenberg.org/donate.
+
+Section 5. Informations générales sur les œuvres électroniques du Projet Gutenberg™
+
+Le professeur Michael S. Hart était à l'origine du projet
+Concept Gutenberg™ d'une bibliothèque d'œuvres électroniques qui pourraient être
+librement partagé avec tous. Pendant quarante ans, il a produit et
+distribué des livres électroniques Project Gutenberg™ avec seulement un réseau lâche de
+soutien bénévole.
+
+Les livres électroniques du projet Gutenberg™ sont souvent créés à partir de plusieurs documents imprimés.
+éditions, qui sont toutes confirmées comme non protégées par le droit d'auteur dans
+aux États-Unis, sauf mention de droit d'auteur. Par conséquent, nous ne
+il est impératif de maintenir les livres électroniques en conformité avec un document particulier
+édition.
+
+La plupart des gens commencent sur notre site Web qui propose la recherche PG principale
+installation : www.gutenberg.org.
+
+Ce site Web contient des informations sur le projet Gutenberg™,
+y compris comment faire des dons au Projet littéraire Gutenberg
+Archive Foundation, comment contribuer à la production de nos nouveaux livres électroniques et comment
+abonnez-vous à notre newsletter par e-mail pour être informé des nouveaux livres électroniques.
+
